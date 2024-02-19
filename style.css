@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.first{
+  background-color: seashell;
+  color: black;
+  width: 200px;
+  height: 1200px;
+  position: relative;
+  top: 0px;
+   
+}
+
+.second{
+  background-color: yellowgreen;
+  color: black;
+  width: 200px;
+  position: fixed;
+  top: 150px;
+   
+}
+
+.third{
+  background-color: black;
+  color: white;
+  width: 200px; 
+ position: absolute;
+  top: 100px;
+  left: 800px;
+   
+    
+}
+
+ 
